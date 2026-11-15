@@ -57,6 +57,18 @@ Topics group whole problems using the source analysis's primary classifications.
 
 **Preserve strengths while checking consistency.** Both Bangladesh students exceeded the peer mean on the Martian moons problem. The pulsar rotation measure result rests on a single question. Repeat the assessment with an unfamiliar problem before treating it as a broad strength.
 
+## Overall standing among all delegations
+
+Bangladesh Senior placed **40th of 65 delegation codes** by average overall score (180.96/600), between Latvia (182.46) and Australia (180.54). All five Bangladesh scores are included.
+
+![Senior standings by delegation](figures/senior-country-standings.svg)
+
+Bangladesh Junior placed **15th of 19 delegations with published results** by their disclosed mean (31.58/100). Canada averaged 32.23 across three of four entrants and Italy 31.04 across two of five. Only two of Bangladesh’s five scores are available. Four of the 23 listed delegations had no published scores. The full-team ranking is unknown.
+
+![Junior standings and score coverage](figures/junior-country-standings.svg)
+
+[Country standings and coverage](data/overall_standings.csv). Run `python country_plots.py` to regenerate the two standings figures.
+
 ## Regional comparison
 
 Means are in each event's own units. Within a row the order of marks is **theory / observation / overall**. The downloadable tables include delegations with at least two disclosed scores.
